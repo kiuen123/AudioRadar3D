@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="AudioRadarCore.ConsoleTest/AudioRadarCore.ConsoleTest.csproj" />
+  <Project Path="AudioRadarCore.Tests/AudioRadarCore.Tests.csproj" />
+  <Project Path="AudioRadarCore/AudioRadarCore.csproj" />
+</Solution>
